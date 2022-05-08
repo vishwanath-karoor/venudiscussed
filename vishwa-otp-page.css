@@ -1,0 +1,354 @@
+#vtopfirsthe{
+    margin-top: 50px;
+}
+
+
+#vouter {
+    height: 900px;
+    width: auto;
+    /* border: red 1px solid; */
+    margin-top: -50px;
+
+}
+h1{
+margin-top: 150px;
+font-size: 50px; 
+text-align: center ;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: lighter;
+font-family: Arial,Helvetica,sans-serif;
+}
+#vstatustrack{
+display: flex; justify-content: space-evenly; font-size: 25px;
+margin-top: 80px;
+color: grey;
+}
+#vsmallbox{
+
+display: flex;
+
+}
+
+#smallbox{
+height: 16px; width: 16px; 
+border: rgb(32, 19, 19) 1px solid;
+/* background-color: rgb(49, 25, 185); */
+display: flex; 
+justify-content: space-evenly;
+margin-top: -16px;
+}
+hr{
+margin-top: 15px;
+}
+#vsmallbox>div:nth-child(1){
+margin-left:200px; background-color: rgb(245, 241, 241);
+}
+#vsmallbox>div:nth-child(2){
+margin-left: 240px;  background-color:  rgb(245, 241, 241);
+}
+#vsmallbox>div:nth-child(3){
+margin-left: 200px; background-color: rgb(245, 241, 241);
+}
+#vsmallbox>div:nth-child(4){
+margin-left: 220px; background-color: rgb(245, 241, 241);
+}
+#vsmallbox>div:nth-child(5){
+margin-left: 220px; background-color:  rgb(245, 241, 241);
+}
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    #otoouterbox{
+        height: 550px; width: 390px;
+    background-color: black; 
+    margin: auto; 
+    border: rgb(0, 255, 115) 1px solid; margin-top: 100px; 
+    }
+   
+#otppageparent{
+    height: 500px; width: 350px;
+    background-color: rgb(0, 128, 81); margin: auto; 
+    margin-top: 22px;
+    /* border: red 1px solid;  */
+}
+#identifyyourselfline{
+        background-color: tomato;
+         height: 40px; color: white;
+        font-weight: bold;
+    }
+
+
+
+/* #otpwalabox4{
+    display: flex;  justify-content: space-around; height: 30px; width: 150px; 
+    border: red 1px solid;
+} */
+
+#otpwalabox4>div{
+    height: 25px; width: 25px; 
+    border: grey 1px solid;
+}
+#otppageparent {
+margin: auto; text-align: center; font-size:20px ;
+}
+#didntgetotpresrendit{
+    text-align: start; font-size: 15px;
+}
+#termsandcondtions{
+    text-align: start; font-size: 15px; color: rgba(21, 22, 23, 0.807);
+    font-weight: bold;
+    /* height: 50px; width: 300px; background-color: rgb(7, 82, 70);
+    border: red 1px solid;  */
+}
+#imagewaladiv{
+    height: 500px; width: 350px;  margin-top: 100px;
+    /* border: red 1px solid; */
+}
+#maindiv{
+    display: flex;  margin-left: 20%; margin-top: -750px;
+}
+#imagesizedecider{
+    height: 500px; width: 250px;
+}
+
+
+#hrmarginreduces{
+    margin-bottom: 180px;
+}
+
+
+
+
+
+
+
+
+
+
+
+#vtopfirsthe{
+    margin-top: 50px;
+}
+
+
+#vouter {
+    height: 900px;
+    width: auto;
+    /* border: red 1px solid; */
+    margin-top: -50px;
+
+}
+h1{
+margin-top: 150px;
+font-size: 50px; 
+text-align: center ;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: lighter;
+font-family: Arial,Helvetica,sans-serif;
+}
+#vstatustrack{
+display: flex; justify-content: space-evenly; font-size: 25px;
+margin-top: 80px;
+color: grey;
+}
+#vsmallbox{
+
+display: flex;
+
+}
+
+#smallbox{
+height: 16px; width: 16px; 
+border: rgb(32, 19, 19) 1px solid;
+/* background-color: rgb(49, 25, 185); */
+display: flex; 
+justify-content: space-evenly;
+margin-top: -16px;
+}
+hr{
+margin-top: 15px;
+}
+#vsmallbox>div:nth-child(1){
+margin-left:200px; background-color: rgb(245, 241, 241);
+}
+#vsmallbox>div:nth-child(2){
+margin-left: 240px;  background-color:  rgb(245, 241, 241);
+}
+#vsmallbox>div:nth-child(3){
+margin-left: 200px; background-color: rgb(245, 241, 241);
+}
+#vsmallbox>div:nth-child(4){
+margin-left: 220px; background-color: rgb(245, 241, 241);
+}
+#vsmallbox>div:nth-child(5){
+margin-left: 220px; background-color:  rgb(245, 241, 241);
+}
+#emailpasswordparent{
+
+}
+#p11{
+margin-top: 50px;
+font-size: 20px;
+font-family: Futura-Medium,Century Gothic,Gill Sans,Helvetica,Arial,sans-serif;
+letter-spacing: .5px;
+text-transform: uppercase;
+color: #000;
+font-weight: 20;
+
+}
+#p22{
+color: #757575;
+margin-bottom: 30px;
+font-weight: 50;
+}
+
+#emailpasswordparent{
+height: auto; width: 100%; 
+/* border: red 1px solid;  */
+display: flex;
+margin-top: 30px;
+font-family: 'Times New Roman', Times, serif; font-weight: lighter;
+}
+#emailpasswordparentleft{
+height: 600px; width: 49%; 
+/* border: rgb(17, 0, 255) 1px solid; */
+
+}
+#emailpasswordparentleft {
+margin-left: 20px;
+
+}
+
+#vmail{
+width: 80%;height: 5%;
+
+}
+#vpassword{
+width: 80%;height: 5%;
+
+}
+#requiredfields{
+color: rgb(117, 100, 100); font-size: 15px;
+font-family: Arial,Helvetica,sans-serif; font-weight: 20;
+}
+#forgotpassword{
+color: rgb(117, 100, 100); font-size: 15px; margin-top: -25px;font-weight: 25;
+font-family: Arial,Helvetica,sans-serif;
+
+}
+#proceedbtn{
+border-radius: 0%; background-color: black;
+color: white; height: 30px;
+width:220px;
+font-family: Arial, Helvetica, sans-serif;
+}
+#emailpasswordparentright{
+height: 600px; width: 49%;
+ /* border: red 1px solid;  */
+ margin-left: 2px;
+} 
+#emailpasswordparentright {
+margin-left: 70px;
+} 
+#proceedwithoutlogin{
+margin-top: 50px;   color: rgb(49, 43, 43); font-size: 20px;
+font-family: Arial,Helvetica,sans-serif; font-weight: 20;
+}#proceedwithoutlogin2{
+margin-top: 30px;   color: rgb(114, 108, 108); font-size: 20px;
+font-family: Arial,Helvetica,sans-serif; font-weight: 20;
+}
+#proceedwithoutbtn{
+border-radius: 0%; background-color: black;
+color: white; height: 30px;
+width:220px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.vl {
+border-left: 1px solid rgb(209, 205, 205);
+height: 420px;
+position: absolute;
+left: 50%;
+/* margin-left: -3px; */
+top: 0;
+margin-top: 420px;
+}
+
+
+
+#lastlinev{
+text-align: center; font-size: 25px;     color: rgb(114, 108, 108); 
+font-family: Arial,Helvetica,sans-serif; font-weight: 20;  margin-top: -150px;
+
+}
+#vlastdiv{
+/* border: rgb(187, 186, 186) 1px solid; */
+height: auto; width: auto;
+display: flex; justify-content: center; 
+}
+#vlastdiv1{
+border: rgb(187, 186, 186) 1px solid;
+height:300px; width: 40%; margin-right: 20px;
+
+}
+#vlastdiv2{
+border: rgb(187, 186, 186) 1px solid;
+height: 300px; width: 40%; margin-left: 20px;
+
+}
+#vlastdiv1>img{
+
+height:60px; width: 60px; 
+margin:auto; margin-left: 235px;
+ margin-top: 35px;
+
+}
+#vlastdiv2>img{
+
+height:120px; width: 120px;
+margin:auto; margin-left: 200px;
+ margin-top: 5px;
+
+}
+#vlastdiv1>h3{
+
+  
+font-size: 25px;  color: rgb(92, 89, 89); margin-top: -10px;
+
+font-family: Arial,Helvetica,sans-serif;
+text-align: center; margin-top: 15px; font-weight: 10;
+
+}
+#vlastdiv2>h3{
+
+font-size: 25px;  color: rgb(92, 89, 89); margin-top: -10px;
+
+font-family: Arial,Helvetica,sans-serif;
+text-align: center;  font-weight: 10;
+
+}
+#vbottomline{
+display: flex; width: 90%; justify-content: space-between; margin-bottom: 50px;
+/* border: pink 1px solid; */
+margin: auto ;
+}
+#vbottomline1{
+font-size: 20px; color: rgb(92, 89, 89); 
+}
+#vbottomline2{
+display: flex; 
+ /* border: red 1px solid; */
+height: 20px; width: 500px;  justify-content: space-around;margin-left: 50px;
+
+}
+#vbottomline2>div{
+  font-size: 20px; color: rgb(92, 89, 89);  
+
+}
+#lastbottomv{
+width: 90%;
+}
+
+#hr2{
+margin-top: -90px;
+}
